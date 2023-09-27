@@ -6,4 +6,4 @@ dont delete Gui.png
 run via vs code ^^
 The time of the process will depend on the image size and CPU capability
 The gui may freeze during the process
-file enhancement will be found on .output
+file enhancement will be found on new folder (.output)
